@@ -1,0 +1,7 @@
+{
+    "TopicArn": "arn:aws:sns:us-east-1:118198795607:demo",
+    "QueueUrl": "https://sqs.us-east-1.amazonaws.com/118198795607/demo",
+    "FilteringQueueUrl": "https://sqs.us-east-1.amazonaws.com/118198795607/gcgdemofilterqueue",
+    "FiFoQueueUrl": "https://sqs.us-east-1.amazonaws.com/118198795607/gcgdemofifoqueue.fifo",
+    "QueueArn": "arn:aws:sqs:us-east-1:118198795607:demo"
+}
